@@ -1,7 +1,4 @@
-Portfolio Agility
-
-Estou aberta para orientação referente à criação e manutenção do meu portfolio, bem como novas conexões - Grata!
-
+Portfolio Agility - http://www.kcunhagilista.blogspot.com
 Registro das atividades com práticas de ferramentas ágeis propostas nas aulas:
 - Business Agility
 - Scrum: agilidade em seu projeto
