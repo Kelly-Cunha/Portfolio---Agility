@@ -1,6 +1,6 @@
 Portfolio Agility
 
-Estou aberta para orientação referente à criação e manutenção do meu portfolio, bem como novas conecções - Grata!
+Estou aberta para orientação referente à criação e manutenção do meu portfolio, bem como novas conexões - Grata!
 
 Registro das atividades com práticas de ferramentas ágeis propostas nas aulas:
 - Business Agility
