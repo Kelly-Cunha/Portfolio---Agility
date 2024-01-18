@@ -7,4 +7,5 @@ Registro das atividades com práticas de ferramentas ágeis propostas nas aulas:
 - Scrum: agilidade em seu projeto
 - Modelagem e melhorias de processos de negócios
 
+@aluraOnline
 #aluraOnline
